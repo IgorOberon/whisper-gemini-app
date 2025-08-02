@@ -3,3 +3,7 @@
 Сборку программы можно делать так 
 
 pyinstaller --noconsole --name "Whisper & Gemini Transcriber" t_app3.py (например, в Anaconda Powershell Prompt)
+
+API-ключ для вызова Gemini внутри приложения взять можно отсюда
+
+https://aistudio.google.com/apikey
