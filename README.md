@@ -5,7 +5,7 @@
 
 https://github.com/IgorOberon/whisper-gemini-app/releases/tag/v1.0.0 
 
-## Сборка программы (самостоятельно)
+## Сборка программы из исходного кода
 
 Сборку программы можно делать так (например, в Anaconda Powershell Prompt)
 
