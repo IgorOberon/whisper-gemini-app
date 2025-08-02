@@ -1,0 +1,6 @@
+torch
+transformers
+datasets
+pydub
+google-generativeai
+python-docx
